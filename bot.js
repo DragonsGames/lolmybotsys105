@@ -280,4 +280,4 @@ client.on("message", message => {
  });
 
 
-client.login('NTI4NTYzNzk2NzcyMzg4ODY0.DwkHCg.8TEghkcwu4OvMg-_jKVv_fqz4Og');
+client.login(process.env.TOKEN);// لا تغير فيها شيء
